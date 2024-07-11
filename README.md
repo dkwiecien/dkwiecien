@@ -8,6 +8,7 @@ Currently I'm working mostly with Vue.js. Other technologies I work with:
 - TypeScript
 - JavaScript
 - Python
+- Microsoft Power BI
 - Java
 - Express.js
 - Tailwind CSS
