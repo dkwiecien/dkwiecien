@@ -4,12 +4,12 @@ Passionate and innovative IT specialist with a strong foundation in software dev
 
 Customer-centric IT specialist with a knack for understanding business requirements and translating them into scalable and efficient IT solutions.
 
-Currently I'm working mostly with Vue.js. Other technologies I work with:
+Technologies I work with:
 - TypeScript
 - JavaScript
 - Python
 - Microsoft Power BI
 - Java
-- Express.js
+- Spring Boot
 - Tailwind CSS
 - Git, GitHub
