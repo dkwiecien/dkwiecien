@@ -9,7 +9,9 @@ Technologies I work with:
 - JavaScript
 - Python
 - Microsoft Power BI
+- Oracle, PostgreSQL
 - Java
 - Spring Boot
 - Tailwind CSS
 - Git, GitHub
+
